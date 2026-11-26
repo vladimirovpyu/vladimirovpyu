@@ -6,7 +6,7 @@
 
 ### 🛠 Технологический стек
 
-* **Языки:** Golang (Goroutines, Channels), PHP 8
+* **Языки:** Golang, PHP 8
 * **Фреймворки и API:** Symfony, gRPC, Protocol Buffers, REST API
 * **Базы данных и брокеры:** MySQL, RabbitMQ
 * **Архитектура:** Microservices, Clean Architecture, DDD, Unit/Functional тесты, рефакторинг
